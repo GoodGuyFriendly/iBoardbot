@@ -1,8 +1,8 @@
 // iBoardBot project
 #include <stdint.h>
 
-#define SERVER_HOST "ibb.jjrobots.com"
-#define SERVER_URL "http://ibb.jjrobots.com/ibbsvr/ibb.php"
+#define SERVER_HOST "piweb"
+#define SERVER_URL "http://piweb/dangerboard/server/mothership.php"
  
 #define MAX_PACKET_SIZE 768
 
